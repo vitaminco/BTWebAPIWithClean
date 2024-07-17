@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xOHkeIntwA=",
+  "dgSpecHash": "p5KR1Ez8iZE=",
   "success": true,
-  "projectFilePath": "D:\\ThucTap\\BT\\BTWithClean\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

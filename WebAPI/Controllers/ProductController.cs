@@ -2,7 +2,6 @@
 using Application.Features.Product.Commands;
 using Application.Features.Product.Queries;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
@@ -29,5 +28,6 @@ namespace WebAPI.Controllers
             => Ok(await mediator.Send(new UpdateProductCommand { Id = id, UpdateProductRequest= updateProductRequest}));
         [HttpDelete("{id:int}")]
         public async Task<ActionResult<ProductReponse>> Delete(int id) => Ok(await mediator.Send(new DeleteProductCommand { Id = id }));
+
     }
 }

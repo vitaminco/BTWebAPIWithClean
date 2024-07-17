@@ -4351,11 +4351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThucTap\\BT\\BTWithClean\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\ThucTap\\BT\\BTWithClean\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ThucTap\\BT\\BTWithClean\\Infrastructure\\obj\\",
+      "outputPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4373,8 +4373,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ThucTap\\BT\\BTWithClean\\Application\\Application.csproj": {
-              "projectPath": "D:\\ThucTap\\BT\\BTWithClean\\Application\\Application.csproj"
+            "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Application\\Application.csproj": {
+              "projectPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Application\\Application.csproj"
             }
           }
         }

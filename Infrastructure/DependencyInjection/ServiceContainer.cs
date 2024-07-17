@@ -23,14 +23,18 @@ namespace Infrastructure.DependencyInjection
 
             /*Đăng kí interface IAppDbContext*/
             services.AddScoped<IAppDbContext>(provider => provider.GetService<AppDbContext>());
+
             //thêm automapper
             services.AddAutoMapper(typeof(AutoMapperConfig));
+
             //Thêm mediatR, Chứa các hannder
             services.AddMediatR(cfg =>
             {
                 cfg.RegisterServicesFromAssembly(typeof(GetAllCategoryHandler).Assembly);
                 cfg.RegisterServicesFromAssembly(typeof(GetAllProductHandler).Assembly);
+               
             });
+
             // Thêm FluentValidation vào dịch vụ (báo lỗi)
             services.AddControllers()
                .AddFluentValidation(v =>
@@ -39,8 +43,9 @@ namespace Infrastructure.DependencyInjection
                    v.RegisterValidatorsFromAssemblyContaining<ProductValidator>();
                });
 
+            //Sử dụng để xóa cache
+            services.AddMemoryCache();
             return services;
         }
     }
-
 }

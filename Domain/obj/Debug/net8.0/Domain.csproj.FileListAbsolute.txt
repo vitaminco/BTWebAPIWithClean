@@ -9,3 +9,15 @@ D:\ThucTap\BT\BTWithClean\Domain\obj\Debug\net8.0\Domain.dll
 D:\ThucTap\BT\BTWithClean\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\ThucTap\BT\BTWithClean\Domain\obj\Debug\net8.0\Domain.pdb
 D:\ThucTap\BT\BTWithClean\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\bin\Debug\net8.0\Domain.dll
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\bin\Debug\net8.0\Domain.pdb
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.dll
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\Domain.pdb
+D:\ThucTap\BT\BTWebAPIWithClean\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -4748,11 +4748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ThucTap\\BT\\BTWithClean\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\ThucTap\\BT\\BTWithClean\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\ThucTap\\BT\\BTWithClean\\WebAPI\\obj\\",
+      "outputPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4770,11 +4770,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ThucTap\\BT\\BTWithClean\\Application\\Application.csproj": {
-              "projectPath": "D:\\ThucTap\\BT\\BTWithClean\\Application\\Application.csproj"
+            "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Application\\Application.csproj": {
+              "projectPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Application\\Application.csproj"
             },
-            "D:\\ThucTap\\BT\\BTWithClean\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\ThucTap\\BT\\BTWithClean\\Infrastructure\\Infrastructure.csproj"
+            "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\ThucTap\\BT\\BTWebAPIWithClean\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

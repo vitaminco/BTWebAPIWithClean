@@ -1,0 +1,10 @@
+﻿/* Change the background color of the Swagger UI */
+body {
+    background-color: #808080;
+}
+
+/* Customize the header */
+.swagger-ui .topbar {
+    background-color: orangered;
+    color: white;
+}
